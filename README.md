@@ -1,0 +1,2 @@
+# Cloud-Computing-Security-
+  Updated 5 minutes ago This project is about the security of cloud . Cloud computing security or, more simply, cloud security refers to a broad set of policies, technologies, applications, and controls utilized to protect virtualized IP, data, applications, services, and the associated infrastructure of cloud computing. It is a sub-domain of computer security, network security, and, more broadly, information security.
